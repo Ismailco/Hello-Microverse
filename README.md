@@ -4,8 +4,6 @@
 
 > This is the first project on the Microverse Learning path.
 
-![screenshot](./app_screenshot.png)
-
 This project contains an HTML page, styled with CSS
 and uses the Microverse linter config file.
 
@@ -13,11 +11,6 @@ and uses the Microverse linter config file.
 
 - HTML
 - CSS
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 To get a local copy up and running follow these simple example steps.
 
